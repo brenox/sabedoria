@@ -1,0 +1,24 @@
+.section .reveal .state-background {
+    background: lightblue;
+}
+
+.section .reveal h1 {
+    color: black;
+}
+
+.section .reveal p{
+    color: black;
+}
+
+.section .reveal strong{
+    color: deepblue;
+}
+
+
+
+
+
+
+
+
+
